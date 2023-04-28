@@ -55,7 +55,7 @@
     <div id="section-content">
         <div class="container mb-5">
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/consult_logo.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
@@ -68,11 +68,11 @@
                 </div>
 
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/searchandlearn_logo.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
-                    <div class="col-6" >
+                    <div class="col-6 " >
                         <p style="text-align:left;  position: absolute;
                         top: 25%;
                         width: 100%;
@@ -81,7 +81,7 @@
                 </div>
 
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/note_logo.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
@@ -94,7 +94,7 @@
                 </div>
 
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/design_logo.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
@@ -107,7 +107,7 @@
                 </div>
 
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/processinput.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
@@ -120,7 +120,7 @@
                 </div>
 
                 <div class="row center mt-2" style="position:relative;">
-                    <div class="col-6">
+                    <div class="col-6" style="padding-left:20%;">
                         <img class="img-responsive mx-auto d-block" src="asset/box_logo.png"
                          alt="image" title="image" style="height: 120px; height: 100px;">
                     </div>
@@ -135,7 +135,7 @@
     </div>
 
 
-    @include('layout.footer_about')
+    @include('layout.footer')
 
 
     </body>

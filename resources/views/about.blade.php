@@ -141,7 +141,7 @@
             </div>
 
         </div>
-        @include('layout.footer_about')
+        @include('layout.footer')
 
 
         </body>

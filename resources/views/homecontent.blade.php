@@ -1611,7 +1611,7 @@
             style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
         <div class="container">
 
-            <div style="padding-top: 40px; padding-bottom: 40px;">
+            <div style="padding-top: 40px; padding-bottom: 20px;">
                 <div>
                     <style type="text/css">
                         .container span{
@@ -1655,144 +1655,13 @@
                         }
                         
                     </style>
-                    <div class="row">
-                        <div class="col-12 marginBottomSpace brakeword2">
-                            <div style="text-align: center;" data-mce-style="text-align: center;"><span
-                                    color="#c39d32" data-mce-style="color: #c39d32;" style="color: #c39d32;">
-                                    <span
-                                        style="font-size: 30px;"
-                                        data-mce-style="font-size: 30px;">ช่องทางการให้บริการ</span>
-                                        <br>
-                                    </span>
-                                </div>
-                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                <span style="font-size: 30px;" data-mce-style="font-size: 30px;">
-                                    <img
-                                        src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/liner.png?v=202012190947"
-                                        data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/liner.png?v=202012190947">
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="customHome2 mt-2">
-                        <div class="customHome2Object">
-                            <div class="row">
-                                <div class="item col-12 col-md-6 col-lg-3">
 
-                                    <div class="marginBottomSpace" style="position:relative;">
-                                        <div class="contentImage">
-                                            <div>
-                                                <img class="img-responsive lazy"
-                                                    src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
-                                                    data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon1.png?v=202012190947"
-                                                    alt="image" title="image">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="maginBottomCaption">
-                                        <div class="caption">
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color:  #c5a557 !important;"
-                                                    data-mce-style="line-height: 1.5; color: #ffffff;">บริการจัดทั่วประเทศ</span><br><span
-                                                    style="line-height: 1.5; color:  #c5a557 !important;"
-                                                    data-mce-style="line-height: 1.5; color: #ffffff;"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item col-12 col-md-6 col-lg-3">
-
-                                    <div class="marginBottomSpace" style="position:relative;">
-                                        <div class="contentImage">
-                                            <div>
-                                                <img class="img-responsive lazy"
-                                                    src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
-                                                    data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon2.png?v=202012190947"
-                                                    alt="image" title="image">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="maginBottomCaption">
-                                        <div class="caption">
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color:  #c5a557 !important;;"
-                                                    data-mce-style="line-height: 1.5; color:  #c5a557 !important;">สนใจติดต่อ</span>
-                                            </div>
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color:  #c5a557 !important;;"
-                                                    data-mce-style="line-height: 1.5; color:  #c5a557 !important;"><span
-                                                        style="color: #c39d32;"
-                                                        data-mce-style="color: #c5a557 !important;">โทร</span> :
-                                                    093-646-4616</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                {{-- <div class="clearfix visible-sm"></div> --}}
-                                <div class="item col-12 col-md-6 col-lg-3">
-
-                                    <div class="marginBottomSpace" style="position:relative;">
-                                        <div class="contentImage">
-                                            <div>
-                                                <a href="https://web.facebook.com/Goplushealthy?_rdc=1&amp;_rdr"
-                                                    target="_self">
-                                                    <img class="img-responsive lazy"
-                                                        src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
-                                                        data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon3.png?v=202012190947"
-                                                        alt="image" title="image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="maginBottomCaption">
-                                        <div class="caption">
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color:  #c5a557 !important;"
-                                                    data-mce-style="line-height: 1.5; color:  #c5a557 !important;;">Facebook</span>
-                                            </div>
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color: #c39d32;"
-                                                    data-mce-style="line-height: 1.5; color: #c5a557 !important;">Goplushealthy</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item col-12 col-md-6 col-lg-3">
-
-                                    <div class="marginBottomSpace" style="position:relative;">
-                                        <div class="contentImage">
-                                            <div>
-                                                <a href="#{{-- https://lin.ee/4e3uSrF --}}" target="_blank">
-                                                    <img class="img-responsive lazy"
-                                                        src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
-                                                        data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon6.png?v=202012190947"
-                                                        alt="image" title="image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="maginBottomCaption">
-                                        <div class="caption">
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color:  #c5a557 !important;;"
-                                                    data-mce-style="line-height: 1.5; color:  #c5a557 !important;;">Line</span>
-                                            </div>
-                                            <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                <span style="line-height: 1.5; color: #c39d32;"
-                                                    data-mce-style="line-height: 1.5; color: #c5a557 !important;">@Goplushealthy</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- end background div -->
-
+{{-- 
     <div style="position: relative; background-color:transparent; ">
         <a id="customize-13595" class="targethash"
             style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
@@ -1835,24 +1704,24 @@
                             word-wrap: break-word;
                         }
                     </style> --}}
-                    <div class="customHome2">
+                    {{-- <div class="customHome2">
                         <div class="customHome2Object">
                             <div class="row">
 
 
                                 {{-- <div class="clearfix visible-sm"></div> --}}
 
-
+{{-- 
                             </div>
                         </div>
-                    </div>
+                    </div> --}} 
                 </div>
             </div>
         </div>
-    </div>
+    </div> 
     <!-- end background div -->
 
-    <div
+    {{-- <div
         style="position: relative;  background-image : url('asset/image/Home_zone5_bg.png?v=202012190989'); background-repeat : no-repeat; background-position-x: 50%; background-position-y: 50%; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
         <a id="customize-13596" class="targethash"
             style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
@@ -1896,7 +1765,10 @@
                             word-wrap: break-word;
                         }
                     </style> --}}
-                    <div class="row">
+
+                    {{-- youtube --}}
+
+                    {{-- <div class="row">
                         <div class="col-12 marginBottomSpace brakeword1">
                             <div style="text-align: center;" data-mce-style="text-align: center;"><span
                                     style="font-size: 26px; line-height: 1.5; color:  #c5a557 !important;;"
@@ -1961,7 +1833,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
                                 {{-- <div class="itemWithoutText col-12 col-md-6 col-lg-4">
                                     <div class="marginBottomSpace" style="position:relative;">
                                         <div class="contentVideo">
@@ -2044,13 +1916,13 @@
                                         </div>
                                     </div>
                                 </div> --}}
-                            </div>
+                            {{-- </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}} 
     <!-- end background div -->
 
     {{-- <div style="position: relative; background-color:transparent; ">
@@ -2081,16 +1953,5 @@
         </div>
     </div> --}}
     <!-- end background div -->
-    <div class="insadsbygoogle" style="text-align: center;margin: 0 auto;display: block !important;max-width: 100%;">
-    </div>
-    <script>
-        function renderYoutubeIframe(e, video_id) {
-            var iframe = document.createElement("iframe");
-            iframe.setAttribute("frameborder", "0");
-            iframe.setAttribute("allowfullscreen", "");
-            iframe.setAttribute("src", "https://www.youtube.com/embed/" + video_id + "?rel=0&showinfo=0&autoplay=1&mute=1");
-            e.innerHTML = "";
-            e.appendChild(iframe);
-        }
-    </script>
+
 </div>

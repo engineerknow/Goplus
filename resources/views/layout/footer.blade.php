@@ -1,5 +1,13 @@
 <div id="section-footer">
     <style>
+
+        #footer-area{
+            
+            background-size: 1380px 500px;
+            width: 100%;
+            background-image: url({{asset('asset/Home_zone5_bg.png')}});
+
+        }
         .container-footer-full {
             width: 100%;
             padding-right: 15px;
@@ -28,142 +36,226 @@
     </style>
     <footer class="footer01 footerZone">
         <div id="footer-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="wordWrapFooterHtml footer-mb-mobile">
-                                    <div style="text-align: center;background-color:#071d31 data-mce-style="text-align: center;">
-                                            <br><br>
-                                            <span
-                                            color="#ffffff" face="Dancing Script"
-                                            data-mce-style="color: #ffffff; font-family: 'Dancing Script';"
-                                            style="color: #ffffff; font-family: 'Dancing Script';">
-                                            <span style="font-size: 48px;">&nbsp;
-                                                <img style="height:80px" src="{{ asset('customer/logo.png') }}"
-                                                    data-mce-src="{{ asset('customer/logo.png') }}">
-                                            </span>
-                                        </span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="wordWrapFooterHtml footer-mb-mobile">
-                                    <span style="line-height: 2;" data-mce-style="line-height: 2;"><img
-                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_pin.png?v=202012190947"
-                                            width="35"
-                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_pin.png?v=202012190947">
-                                            {{ trans('message.goplus_title') }}</span><br><span style="line-height: 2;"
-                                        data-mce-style="line-height: 2;"> {{ trans('message.goplus_address') }}
-                                        </span><br><span style="line-height: 2;"
-                                        data-mce-style="line-height: 2;">{{ trans('message.goplus_address2') }}</span><br><br><span
-                                        style="line-height: 2;" data-mce-style="line-height: 2;"><img
-                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_Clock.png?v=202012190947"
-                                            width="35"
-                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_Clock.png?v=202012190947">
-                                            {{ trans('message.goplus_open_title') }}</span>
-                                    <br>{{ trans('message.goplus_open') }}
-                                    <br>{{ trans('message.goplus_open_2') }}<br>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="wordWrapFooterHtml footer-mb-mobile">
-                                    <div style="text-align: left;" data-mce-style="text-align: left;"><span
-                                            style="line-height: 1.5;" data-mce-style="line-height: 1.5;"><img
-                                                src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/Icon_call.png?v=202012190947"
-                                                width="35"
-                                                data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/Icon_call.png?v=202012190947">
-                                            <a href="tel:093-646-4616"
-                                                data-mce-href="tel:093-646-4616">093-646-4616<br></a></span><br><span
-                                            style="line-height: 1.5;" data-mce-style="line-height: 1.5;"><img
-                                                src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_email.png?v=202012190947"
-                                                width="35"
-                                                data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_email.png?v=202012190947">
-                                            <a href="mailto:goplushealthy@gmail.com"
-                                                data-mce-href="mailto:goplushealthy@gmail.com">goplushealthy@gmail.com</a>&nbsp;</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-3 col-lg-3">
-                        <div class="row">
-                            <div class="col-12">
-                                <div style="margin-bottom:10px;">
-
-                                    <div class="wordWrapFooterHtml">
+            <div style="position: relative;  background-image : url('asset/image/Home_zone5_bg.png?v=202012190989'); background-repeat : no-repeat; background-position-x: 82%; background-position-y: 50%; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; ">
+                <a id="customize-13596" class="targethash" style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
+                <div class="container">
+                        <div>
+                            <div class="container">
+                                <div class="row">
+                                    
+                                    <div class="col-12 marginBottomSpace brakeword2">
                                         <div style="text-align: center;" data-mce-style="text-align: center;"><span
-                                                face="Dancing Script" style="font-family: 'Dancing Script';"
-                                                data-mce-style="font-family: 'Dancing Script';"><span
-                                                    style="font-size: 48px;" data-mce-style="font-size: 48px;">
-                                                        <a
-                                                        href="http://www.facebook.com/omakanesh" target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        data-mce-href="http://www.facebook.com/omakanesh"><img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_fb.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_fb.png?v=202012190947"></a>
-                                                        <a
-                                                        href="http://www.instagram.com/omakanesh" target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        data-mce-href="http://www.instagram.com/omakanesh">
-                                                        <img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_ig.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_ig.png?v=202012190947"></a>
-                                                        <a
-                                                        data-mce-href="https://www.youtube.com/watch?v=L8IIN9gylHI&amp;t=7s"
-                                                        href="https://www.youtube.com/watch?v=L8IIN9gylHI&amp;t=7s"><img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_yt.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_yt.png?v=202012190947"></a>
-                                                            <a
-                                                        href="https://lin.ee/4e3uSrF" target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        data-mce-href="https://lin.ee/4e3uSrF"><img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_line.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_line.png?v=202012190947"></a>
-                                                            {{-- <a
-                                                        href="https://lin.ee/Ft9flOX" target="_blank"
-                                                        rel="noopener noreferrer"
-                                                        data-mce-href="https://lin.ee/Ft9flOX"><img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_lineman.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_lineman.png?v=202012190947"></a>
-                                                            <a
-                                                        href="https://static.robinhood.in.th/share_link.html?utm_source=consumerapp&amp;utm_medium=sharefavshop%20button&amp;utm_campaign=sharefavshop&amp;utm_content=83339&amp;URI=robinhoodth://merchantlanding/id/8%203339"
-                                                        target="_blank" rel="noopener noreferrer"
-                                                        data-mce-href="https://static.robinhood.in.th/share_link.html?utm_source=consumerapp&amp;utm_medium=sharefavshop%20button&amp;utm_campaign=sharefavshop&amp;utm_content=83339&amp;URI=robinhoodth://merchantlanding/id/8%203339"><img
-                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_robin.png?v=202012190947"
-                                                            width="35"
-                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_robin.png?v=202012190947"></a> --}}</span></span>&nbsp;<br>
+                                                color="#c39d32" data-mce-style="color: #c39d32;" style="color: #c39d32;">
+                                                <span
+                                                    style="font-size: 30px;"
+                                                    data-mce-style="font-size: 30px;">ช่องทางการให้บริการ</span>
+                                                    <br>
+                                                </span>
+                                        
                                         </div>
-                                        <div style="text-align: center;" data-mce-style="text-align: center;">&nbsp;
+
+                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                            <span style="font-size: 30px;" data-mce-style="font-size: 30px;">
+                                                <img
+                                                    src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/liner.png?v=202012190947"
+                                                    data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/liner.png?v=202012190947">
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="customHome2 mt-3">
+                                    <div class="customHome2Object">
+                                        <div class="row">
+                                            <div class="item col-12 col-md-6 col-lg-3">
+                
+                                                <div class="marginBottomSpace" style="position:relative;">
+                                                    <div class="contentImage">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <img class="img-responsive lazy" style="width:90px;height:90px;"
+                                                                src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
+                                                                data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon1.png?v=202012190947"
+                                                                alt="image" title="image">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="maginBottomCaption">
+                                                    <div class="caption">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color:  #fff!important;"
+                                                                data-mce-style="line-height: 1.5;">บริการจัดทั่วประเทศ</span><br><span
+                                                                style="line-height: 1.5; color:  #c5a557 !important;"
+                                                                data-mce-style="line-height: 1.5; color: #ffffff;"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="item col-12 col-md-6 col-lg-3">
+                
+                                                <div class="marginBottomSpace" style="position:relative;">
+                                                    <div class="contentImage">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <img class="img-responsive lazy" style="width:90px;height:90px;"
+                                                                src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
+                                                                data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon2.png?v=202012190947"
+                                                                alt="image" title="image">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="maginBottomCaption">
+                                                    <div class="caption">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color:  #ffffff !important;"
+                                                                data-mce-style="line-height: 1.5;">สนใจติดต่อ</span>
+                                                        </div>
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color:  #c5a557 !important;;"
+                                                                data-mce-style="line-height: 1.5;"><span
+                                                                    style="color: #c39d32 !important;"
+                                                                    data-mce-style="line-height: 1.5;">โทร</span> :
+                                                                093-646-4616</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            {{-- <div class="clearfix visible-sm"></div> --}}
+                                            <div class="item col-12 col-md-6 col-lg-3">
+                
+                                                <div class="marginBottomSpace" style="position:relative;">
+                                                    <div class="contentImage">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <a href="https://web.facebook.com/Goplushealthy?_rdc=1&amp;_rdr"
+                                                                target="_self">
+                                                                <img class="img-responsive lazy" style="width:90px;height:90px;"
+                                                                    src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
+                                                                    data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon3.png?v=202012190947"
+                                                                    alt="image" title="image">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="maginBottomCaption">
+                                                    <div class="caption">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color:  #fff !important;"
+                                                                data-mce-style="line-height: 1.5; color:  #c5a557 !important;;">Facebook</span>
+                                                        </div>
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color: #c5a557!important;"
+                                                                data-mce-style="line-height: 1.5; color: #c5a557 !important;">Goplushealthy</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="item col-12 col-md-6 col-lg-3">
+                
+                                                <div class="marginBottomSpace" style="position:relative;">
+                                                    <div class="contentImage">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <a href="#{{-- https://lin.ee/4e3uSrF --}}" target="_blank">
+                                                                <img class="img-responsive lazy" style="width:90px;height:90px;"
+                                                                    src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
+                                                                    data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon6.png?v=202012190947"
+                                                                    alt="image" title="image">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="maginBottomCaption">
+                                                    <div class="caption">
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color:  #fff !important;;"
+                                                                data-mce-style="line-height: 1.5;">Line</span>
+                                                        </div>
+                                                        <div style="text-align: center;" data-mce-style="text-align: center;">
+                                                            <span style="line-height: 1.5; color: #c39d32 !important;;"
+                                                                data-mce-style="line-height: 1.5; color: #c5a557 !important;">@Goplushealthy</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="container mt-5">
+                                <div style="text-align: center;" data-mce-style="text-align: center;">
+                                <div class="row" >
+                                    <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="wordWrapFooterHtml footer-mb-mobile">
+                                                    <div style="text-align: center;background-color:#071d31 data-mce-style="text-align: center;">
+                                                            <br><br>
+                                                            <span
+                                                            color="#ffffff" face="Dancing Script"
+                                                            data-mce-style="color: #ffffff; font-family: 'Dancing Script';"
+                                                            style="color: #ffffff; font-family: 'Dancing Script';">
+                                                            <span style="font-size: 48px;">&nbsp;
+                                                                <img style="height:80px" src="{{ asset('customer/logo.png') }}"
+                                                                    data-mce-src="{{ asset('customer/logo.png') }}">
+                                                            </span>
+                                                        </span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-sm-6 col-md-3 col-lg-3 pt-5" >
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="wordWrapFooterHtml footer-mb-mobile">
+                                                    <span style="line-height: 2;" data-mce-style="line-height: 2;"><img
+                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_pin.png?v=202012190947"
+                                                            width="35"
+                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_pin.png?v=202012190947">
+                                                            {{ trans('message.goplus_title') }}</span><br><span style="line-height: 2;font-size:12px;"
+                                                        data-mce-style="line-height: 2;"> {{ trans('message.goplus_address') }}
+                                                        </span><br><span style="line-height: 2;font-size:12px;"
+                                                        data-mce-style="line-height: 2;">{{ trans('message.goplus_address2') }}</span><br><br><span
+                                                        style="line-height: 2;" data-mce-style="line-height: 2;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                
+                                    <div class="col-12 col-sm-6 col-md-3 col-lg-3 pl-5 pt-5">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="wordWrapFooterHtml footer-mb-mobile">
+                                                    <span
+                                                        style="line-height: 2;" data-mce-style="line-height: 2;"><img
+                                                            src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_Clock.png?v=202012190947"
+                                                            width="35"
+                                                            data-mce-src="https://image.makewebeasy.net/makeweb/0/kZW10Ki7N/Home/btn_Clock.png?v=202012190947">
+                                                            {{ trans('message.goplus_open_title') }}</span>
+                                                    <br><span style="font-size:12px;">{{ trans('message.goplus_open') }}</span>
+                                                    <br><span style="font-size:12px;">{{ trans('message.goplus_open_2') }}</span><br>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                
+                                    <div class="col-12 col-sm-6 col-md-3 col-lg-3 pl-5 ">
+                                        <div class="row">
+                                            <div class="col-12" style="text-align: center;" data-mce-style="text-align: center;">
+                                                <div class="wordWrapFooterHtml footer-mb-mobile" style="text-align: center;color:#c39d32;" data-mce-style="text-align: center;">
+                                                    <span style="font-size: 48px;">&nbsp;
+                                                        <img style="width:125px;height:130px" src="{{asset('asset/qrcode.png')}}">
+                                                    </span>
+                                                    <br><br>
+                                                    <p style="font-size: 20px;margin-left:15px;color:  #e4b43b !important;">{{ trans('message.consultfree') }}</p>
+                
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-12">
-                            </div>
                         </div>
-                        <div class="row">
-                            <div class="col-12">
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
+
         </div>
         <div id="footer-bar">
             <div class="container">
@@ -172,9 +264,11 @@
                         <div style="text-align: center;" data-mce-style="text-align: center;"><span
                                 style="color: #ffffff; font-size: 13px;"
                                 data-mce-style="color: #ffffff; font-size: 13px;">DEMO ONLY</span></div>
+                        </div>
                     </div>
                 </div>
-            </div>
+        
+            </div>    
         </div>
     </footer>
 

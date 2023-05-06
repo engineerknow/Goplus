@@ -2,7 +2,7 @@
     <style>
 
         #footer-area{
-            
+
             background-size: 1380px 500px;
             width: 100%;
             background-image: url({{asset('asset/Home_zone5_bg.png')}});
@@ -30,9 +30,16 @@
             display: block !important;
         }
 
-        .container ,span{
-            color: #ffffff !important;
+        /* .container ,span{
+            color: #252525 !important;
+        } */
+        /* *{
+            color: #252525 ;
+        } */
+        .text-center{
+            color: #c18620 !important;
         }
+
     </style>
     <footer class="footer01 footerZone">
         <div id="footer-area">
@@ -42,16 +49,16 @@
                         <div>
                             <div class="container">
                                 <div class="row">
-                                    
+
                                     <div class="col-12 marginBottomSpace brakeword2">
                                         <div style="text-align: center;" data-mce-style="text-align: center;"><span
                                                 color="#c39d32" data-mce-style="color: #c39d32;" style="color: #c39d32;">
                                                 <span
                                                     style="font-size: 30px;"
-                                                    data-mce-style="font-size: 30px;">ช่องทางการให้บริการ</span>
+                                                    data-mce-style="font-size: 30px;">{{ trans('message.footer_title') }}</span>
                                                     <br>
                                                 </span>
-                                        
+
                                         </div>
 
                                         <div style="text-align: center;" data-mce-style="text-align: center;">
@@ -67,7 +74,7 @@
                                     <div class="customHome2Object">
                                         <div class="row">
                                             <div class="item col-12 col-md-6 col-lg-3">
-                
+
                                                 <div class="marginBottomSpace" style="position:relative;">
                                                     <div class="contentImage">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
@@ -82,7 +89,7 @@
                                                     <div class="caption">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #fff!important;"
-                                                                data-mce-style="line-height: 1.5;">บริการจัดทั่วประเทศ</span><br><span
+                                                                data-mce-style="line-height: 1.5;">{{ trans('message.footer_delivery') }}</span><br><span
                                                                 style="line-height: 1.5; color:  #c5a557 !important;"
                                                                 data-mce-style="line-height: 1.5; color: #ffffff;"></span>
                                                         </div>
@@ -90,7 +97,7 @@
                                                 </div>
                                             </div>
                                             <div class="item col-12 col-md-6 col-lg-3">
-                
+
                                                 <div class="marginBottomSpace" style="position:relative;">
                                                     <div class="contentImage">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
@@ -105,13 +112,13 @@
                                                     <div class="caption">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #ffffff !important;"
-                                                                data-mce-style="line-height: 1.5;">สนใจติดต่อ</span>
+                                                                data-mce-style="line-height: 1.5;">{{ trans('message.footer_contact') }}</span>
                                                         </div>
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #c5a557 !important;;"
                                                                 data-mce-style="line-height: 1.5;"><span
                                                                     style="color: #c39d32 !important;"
-                                                                    data-mce-style="line-height: 1.5;">โทร</span> :
+                                                                    data-mce-style="line-height: 1.5;">{{ trans('message.tel') }}</span> :
                                                                 093-646-4616</span>
                                                         </div>
                                                     </div>
@@ -119,7 +126,7 @@
                                             </div>
                                             {{-- <div class="clearfix visible-sm"></div> --}}
                                             <div class="item col-12 col-md-6 col-lg-3">
-                
+
                                                 <div class="marginBottomSpace" style="position:relative;">
                                                     <div class="contentImage">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
@@ -147,7 +154,7 @@
                                                 </div>
                                             </div>
                                             <div class="item col-12 col-md-6 col-lg-3">
-                
+
                                                 <div class="marginBottomSpace" style="position:relative;">
                                                     <div class="contentImage">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
@@ -217,7 +224,7 @@
                                             </div>
                                         </div>
                                     </div>
-                
+
                                     <div class="col-12 col-sm-6 col-md-3 col-lg-3 pl-5 pt-5">
                                         <div class="row">
                                             <div class="col-12">
@@ -234,7 +241,7 @@
                                             </div>
                                         </div>
                                     </div>
-                
+
                                     <div class="col-12 col-sm-6 col-md-3 col-lg-3 pl-5 ">
                                         <div class="row">
                                             <div class="col-12" style="text-align: center;" data-mce-style="text-align: center;">
@@ -244,7 +251,7 @@
                                                     </span>
                                                     <br><br>
                                                     <p style="font-size: 20px;margin-left:15px;color:  #e4b43b !important;">{{ trans('message.consultfree') }}</p>
-                
+
                                                 </div>
                                             </div>
                                         </div>
@@ -267,8 +274,8 @@
                         </div>
                     </div>
                 </div>
-        
-            </div>    
+
+            </div>
         </div>
     </footer>
 

@@ -114,13 +114,27 @@
                         border-color: #1EA7C7;
                         color: #FFFFFF;
                 }
+                #topZone, .headerMobile>#topZone>#top-area, .sps--blw nav #top-sticky{
+                    background-color: #ffffff;
+                     color: black;
+                }
+                ul.navbar-topmenu.navbar-nav>li.nav-item>a.nav-link{
+                    color: #585858;
+                }
+                .main-bg{
+                    background-color: #ffffff;
+                    color: black;
+                }
+                .main-font{
+                    color: rgb(206, 169, 50);
+                }
         </style>
         <meta http-equiv="origin-trial" content="A9wkrvp9y21k30U9lU7MJMjBj4USjLrGwV+Z8zO3J3ZBH139DOnCv3XLK2Ii40S94HG1SZ/Zeg2GSHOD3wlWngYAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
         <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10785670622/?random=1656588438232&amp;cv=9&amp;fst=1656588438232&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1032&amp;u_aw=1920&amp;u_cd=24&amp;u_his=4&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg6t0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.goplushealthy.com%2F&amp;tiba=%E0%B8%AD%E0%B8%B9%E0%B8%99%E0%B8%B4%20delivery%20%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script>
 </head>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <body>
-        <!--     
+        <!--
 <noscript>
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3DMTBN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
         <!-- End Google Tag Manager (noscript) -->

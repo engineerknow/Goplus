@@ -18,13 +18,13 @@
             </div>
             <div class="container my-5">
                 <div class="container">
-                    <h2 class="text-center">{{ trans('message.product_title') }}</h2>
+                    <h2 class="text-center main-font">{{ trans('message.product_title') }}</h2>
                     <div class="container mt-5">
                         <div style="position: relative; background-color:transparent; ">
                             <a id="customize-13592" class="targethash"
                                 style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
                             <div class="container-fluid">
-                    
+
                                 <div style="padding-top: 40px; padding-bottom: 40px;">
                                     <div>
                                         {{-- <style>
@@ -40,7 +40,7 @@
                                                 background: transparent;
                                                 position: absolute;
                                             }
-                    
+
                                             #newcustomize19_13592 .textLayout_6681 .captionText {
                                                 position: absolute;
                                                 top: 50%;
@@ -55,62 +55,62 @@
                                                 max-width: 100%;
                                                 word-wrap: break-word;
                                             }
-                    
+
                                             #newcustomize19_13592 a.captionLayout_6681 .captionText {
                                                 cursor: pointer;
                                             }
-                    
+
                                             #newcustomize19_13592 .texthoverContext p {
                                                 margin: 0px;
                                             }
-                    
+
                                             @media only screen and (max-width: 992px) {
-                    
+
                                                 #newcustomize19_13592 .textLayout_6681 .captionText [data-font-size="60"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681 .captionText [data-font-size="60"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .textLayout_6681 .captionText [data-font-size="66"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681 .captionText [data-font-size="66"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .textLayout_6681 .captionText [data-font-size="72"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681 .captionText [data-font-size="72"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .textLayout_6681 .captionText [data-font-size="80"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681 .captionText [data-font-size="80"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .textLayout_6681 .captionText [data-font-size="100"] {
                                                     font-size: 60px !important;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681 .captionText [data-font-size="100"] {
                                                     font-size: 60px !important;
                                                 }
                                             }
-                    
+
                                             #newcustomize19_13592 .imgportfolio {
                                                 object-fit: cover;
                                             }
-                    
+
                                             #newcustomize19_13592 .captionLayout_6681 {
                                                 top: 0;
                                                 bottom: 0;
@@ -122,7 +122,7 @@
                                                 transition: .3s ease;
                                                 position: absolute;
                                             }
-                    
+
                                             #newcustomize19_13592 .captionLayout_6681 .captionText {
                                                 position: absolute;
                                                 top: 50%;
@@ -134,23 +134,23 @@
                                                 width: 100%;
                                                 cursor: default;
                                             }
-                    
+
                                             @media only screen and (min-width: 1025px) {
                                                 #newcustomize19_13592 .img-interactive6681:hover .textLayout_6681 {
                                                     opacity: 0;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .img-interactive6681 .imgportfolio {
                                                     transition: .5s ease;
                                                 }
-                    
+
                                                 #newcustomize19_13592 .img-interactive6681:hover .imgportfolio {
                                                     transform: scale(1.1);
                                                     -moz-transform: scale(1.1);
                                                     -webkit-transform: scale(1.1);
                                                     -o-transform: scale(1.1);
                                                 }
-                    
+
                                                 #newcustomize19_13592 .captionLayout_6681:hover {
                                                     opacity: 1;
                                                 }
@@ -163,21 +163,21 @@
                                                     height: calc(((100vw / 3)* (2/3)) - 4px);
                                                 }
                                             }
-                    
+
                                             @media only screen and (min-width: 993px) and (max-width: 1024px) {
                                                 #newcustomize19_13592 .normalbar .imgportfolio {
                                                     width: 100%;
                                                     height: calc((100vw /3)* (2/3));
                                                 }
                                             }
-                    
+
                                             @media only screen and (min-width: 768px) and (max-width: 992px) {
                                                 #newcustomize19_13592 .normalbar .imgportfolio {
                                                     width: 100%;
                                                     height: calc((100vw)* (2/3));
                                                 }
                                             }
-                    
+
                                             @media only screen and (max-width: 767px) {
                                                 #newcustomize19_13592 .normalbar .imgportfolio {
                                                     width: 100%;
@@ -198,13 +198,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="asset/image/gummy.png" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -223,13 +223,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2434/caviar" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -248,13 +248,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2435/sashimi" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -273,13 +273,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="asset/image/gummy.png" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -298,13 +298,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2434/caviar" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -323,13 +323,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2435/sashimi" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -348,13 +348,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2438/special-set-menu" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -373,13 +373,13 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2436/donburi" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -398,13 +398,13 @@
                                                     </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2439/extra-menu" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -423,13 +423,13 @@
                                                     </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2439/extra-menu" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -448,13 +448,13 @@
                                                     </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2439/extra-menu" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -473,13 +473,13 @@
                                                     </a>
                                                     </div>
                                                 </div>
-                    
+
                                                 <div class="textLayout_6681">
                                                     <div class="captionText p">
                                                     </div>
                                                 </div>
-                    
-                    
+
+
                                                 <a href="https://www.goplushealthy.com/category/2439/extra-menu" target="_self"
                                                     class="captionLayout_6681">
                                                     <div class="captionText p">
@@ -493,9 +493,9 @@
                         </div>
                         <hr>
                     </div>
-    
+
                 </div>
-    
+
             </div>
         @include('layout.footer')
 

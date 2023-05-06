@@ -1,6 +1,10 @@
 <?php
 return [
     'Home' => 'Home',
+    'create_product' => 'My Product',
+    'footer_title' => 'Service channels',
+    'footer_delivery' => 'Nationwide delivery service',
+    'footer_contact' => 'Contact',
     'About' => 'About',
     'Service' => 'Service',
     'Productprocess' => 'Process',
@@ -42,7 +46,7 @@ return [
     'mission_detail-2' => 'Determine and promote the development of personnel potential to be professional. and jointly create an organizational culture that leads to
     Work with the most effective organization',
     'mission_detail-3' => 'Promote and create careers for the community sustainably
-    ',    
+    ',
     'tradition_title' => 'Organizational culture',
     'tradition_detail' => '“Go Plus Healthy Co., Ltd. has a corporate culture that is a guideline for people in the organization to adhere together, which is consistent with the vision and the mission of the organization that result in work efficiency, including living together in the organization that leads to the sustainability of the organization in the future.”',
     'achievement_title' => 'Awards Achievement ',
@@ -56,7 +60,7 @@ return [
     3. FDA registration, Halal, etc.
     4. Design packaging
     5. Produce and pack
-    6. Deliver to customers    
+    6. Deliver to customers
     ',
     'food_title' => 'Food Safety Policies ',
     'food_detail' => '“Go Plus Healthy Co., Ltd. is the inventor, researcher, and developer of products along with the selection of real good quality for raw materials based on food safety. Under the production with international standards and stated laws, they are important to respond the needs and the highest satisfaction of customers for obvious results.',

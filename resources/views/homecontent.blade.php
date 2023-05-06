@@ -193,8 +193,8 @@
                                             style="font-family: Kanit;" data-mce-style="font-family: Kanit;"></span>
                                         <span style="font-family: Kanit;" data-mce-style="font-family: Kanit;">
                                             {{ trans('message.home_section_2_title') }}</span></span></h1>
-        
-                                
+
+
                                         <p>{{ trans('message.main_des') }}</p>
                                     </div>
 
@@ -232,7 +232,7 @@
                         <div class="col-12 col-sm-6">
                             <div class="marginBottomSpaceMobile">
                                 <img class="img-responsive mx-auto d-block" src="asset/go_plus.jpg"
-                                    
+
                                     alt="image" title="image" style="height: 500px; height: 500px; opacity: 1;">
                             </div>
                         </div>
@@ -249,7 +249,7 @@
                                 <span style="font-family: Kanit;" data-mce-style="font-family: Kanit;">
                                     {{ trans('message.home_section_2_title') }}</span></span></h1>
 
-                        
+
                                 <p>{{ trans('message.main_des') }}</p>
                             </div>
                         </div>
@@ -269,14 +269,14 @@
                                 <span style="font-family: Kanit;" data-mce-style="font-family: Kanit;">
                                     {{ trans('message.home_section_2_title') }}</span></span></h1>
 
-                        
+
                                 <p>{{ trans('message.main_des') }}</p>
                             </div>
                         </div>
                         <div class="col-12 col-sm-6">
                             <div class="marginBottomSpaceMobile">
                                 <img class="img-responsive mx-auto d-block" src="asset/phama_1.jpg"
-                                    
+
                                     alt="image" title="image" style="height: 240px; height: 360px; opacity: 1;">
                             </div>
                         </div>
@@ -287,12 +287,12 @@
                         <div class="col-12 col-sm-6">
                             <div class="marginBottomSpaceMobile">
                                 <img class="img-responsive mx-auto d-block" src="asset/phama_2.jpg"
-                                    
+
                                     alt="image" title="image" style="height: 240px; height: 360px; opacity: 1;">
                             </div>
                         </div>
                         <div class="col-12 col-sm-6 brakeword7" style="position: relative;">
-                            
+
                             <div class="detail" style="margin: 0;
                             position: absolute;
                             top: 50%;
@@ -305,7 +305,7 @@
                                 <span style="font-family: Kanit;" data-mce-style="font-family: Kanit;">
                                     {{ trans('message.home_section_2_title') }}</span></span></h1>
 
-                        
+
                                 <p>{{ trans('message.main_des') }}</p>
                             </div>
 
@@ -482,11 +482,11 @@
                             }
                         }
                     </style> --}}
-                    <div class="row" style="background-color: #0f2a41;">
+                    <div class="row main-bg">
                         <div class="col-12">
                             <div class="d-flex justify-content-center p-2 mt-2">
                                 <div class="type">
-                                    <h3 style="color: #fff">รูปแบบอาหารเสริมที่รับผลิต</h3>
+                                    <h3 class="main-font">{{ trans('message.create_product')}}</h3>
                                 </div>
                             </div>
                         </div>
@@ -996,16 +996,16 @@
 
                 #productList1_13593.productList1 .productCompare {
                     height: 30px;
-                    
+
                     font-size: 14px;
                 }
 
                 #productList1_13593.productList1 .productCompare label {
-                  
+
                 }
 
                 #productList1_13593.productList1 .productCompare input {
-                    
+
                 }
 
                 #productList1_13593 {
@@ -1358,7 +1358,7 @@
                 <h2 style="color:#c39d32;text-align:center;  padding-bottom:20px;  word-wrap: break-word;">
                     สินค้าแนะนำ </h2>
                 <div>
-                    
+
                     <div class="productList1" id="productList1_13593">
                         <div class="productWidget">
                             <div class="row ">
@@ -1653,7 +1653,7 @@
                         .brakeword2 {
                             word-wrap: break-word;
                         }
-                        
+
                     </style>
 
                 </div>
@@ -1661,7 +1661,7 @@
         </div>
     </div>
     <!-- end background div -->
-{{-- 
+{{--
     <div style="position: relative; background-color:transparent; ">
         <a id="customize-13595" class="targethash"
             style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
@@ -1711,14 +1711,14 @@
 
                                 {{-- <div class="clearfix visible-sm"></div> --}}
 
-{{-- 
+{{--
                             </div>
                         </div>
-                    </div> --}} 
+                    </div> --}}
                 </div>
             </div>
         </div>
-    </div> 
+    </div>
     <!-- end background div -->
 
     {{-- <div
@@ -1922,10 +1922,10 @@
                 </div>
             </div>
         </div>
-    </div> --}} 
+    </div> --}}
     <!-- end background div -->
 
-    {{-- <div style="position: relative; background-color:transparent; ">
+{{--     <div style="position: relative; background-color:transparent; ">
         <a id="customize-13597" class="targethash"
             style="display: block; position: relative; visibility: hidden; top: -45px;"></a>
         <div class="container">

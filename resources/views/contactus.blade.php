@@ -32,6 +32,10 @@
     .brakeword2 {
         word-wrap: break-word;
     }
+
+    .container, span{
+        color:#c39d32 !important;
+    }
 </style>
 @include('layout.headerold')
 
@@ -52,11 +56,11 @@
 
                 <div style="padding-top: 40px; padding-bottom: 40px;">
                     <div>
-                        
+
                         <div class="row">
                             <div class="col-12 marginBottomSpace brakeword2">
-                                <div style="text-align: center;" data-mce-style="text-align: center;"><span
-                                        color="#c39d32" data-mce-style="color: #c39d32;" style="color: #c39d32;"><span
+                                <div class="main-font" style="text-align: center;" data-mce-style="text-align: center;"><span
+                                        color="#c39d32" data-mce-style="color: #c39d32;"
                                             style="font-size: 30px;"
                                             data-mce-style="font-size: 30px;">{{ trans('message.Contact') }}</span><br></span></div>
                                 <div style="text-align: center;" data-mce-style="text-align: center;"><span
@@ -85,10 +89,10 @@
                                         <div class="maginBottomCaption">
                                             <div class="caption">
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                    <span style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;">{{ trans('message.delivery_all') }}</span><br><span
-                                                        style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;"></span>
+                                                    <span style="line-height: 1.5; " class="main-font"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;">{{ trans('message.delivery_all') }}</span><br><span
+                                                        style="line-height: 1.5; color: #ecbc36;"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;"></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -108,12 +112,12 @@
                                         <div class="maginBottomCaption">
                                             <div class="caption">
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                    <span style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;">{{ trans('message.Contact') }}</span>
+                                                    <span style="line-height: 1.5; color: #ecbc36;"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;">{{ trans('message.Contact') }}</span>
                                                 </div>
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                    <span style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;"><span
+                                                    <span style="line-height: 1.5; color: #ecbc36;"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;"><span
                                                             style="color: #c39d32;"
                                                             data-mce-style="color: #c39d32;">{{ trans('message.tel') }}</span> :
                                                         093-646-4616</span>
@@ -140,8 +144,8 @@
                                         <div class="maginBottomCaption">
                                             <div class="caption">
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                    <span style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;">Facebook</span>
+                                                    <span style="line-height: 1.5; color: #ecbc36;"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;">Facebook</span>
                                                 </div>
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
                                                     <span style="line-height: 1.5; color: #c39d32;"
@@ -167,8 +171,8 @@
                                         <div class="maginBottomCaption">
                                             <div class="caption">
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                    <span style="line-height: 1.5; color: #ffffff;"
-                                                        data-mce-style="line-height: 1.5; color: #ffffff;">Line</span>
+                                                    <span style="line-height: 1.5; color: #ecbc36;"
+                                                        data-mce-style="line-height: 1.5; color: #ecbc36;">Line</span>
                                                 </div>
                                                 <div style="text-align: center;" data-mce-style="text-align: center;">
                                                     <span style="line-height: 1.5; color: #c39d32;"

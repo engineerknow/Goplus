@@ -13,6 +13,7 @@
     <!-- Styles -->
     <style>
         /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
         html {
             line-height: 1.15;
             -webkit-text-size-adjust: 100%
@@ -792,7 +793,7 @@
                     <a class="nav-link abl1 dropdown-item" href="/contactus" target="_self">{{ trans('message.Contact') }}</a>
                 </li>
             </ul>
-           
+
         </div>
 
         <div class="container">

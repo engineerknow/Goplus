@@ -158,7 +158,7 @@
                                                 <div class="marginBottomSpace" style="position:relative;">
                                                     <div class="contentImage">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
-                                                            <a href="#{{-- https://lin.ee/4e3uSrF --}}" target="_blank">
+                                                            <a href="https://lin.ee/XYw60wU" target="_blank">
                                                                 <img class="img-responsive lazy" style="width:90px;height:90px;"
                                                                     src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
                                                                     data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon6.png?v=202012190947"
@@ -264,7 +264,7 @@
             </div>
 
         </div>
-        <div id="footer-bar">
+        {{-- <div id="footer-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -276,7 +276,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> --}}
     </footer>
 
 

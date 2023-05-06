@@ -159,7 +159,7 @@
                                         <div class="marginBottomSpace" style="position:relative;">
                                             <div class="contentImage">
                                                 <div>
-                                                    <a href="https://lin.ee/4e3uSrF" target="_blank">
+                                                    <a href="https://line.me/R/ti/p/@135yfeaz" target="_blank">
                                                         <img class="img-responsive lazy"
                                                             src="https://webbuilder55.makewebeasy.com/images/lazy_default.png"
                                                             data-src="https://image.makewebeasy.net/makeweb/m_750x0/kZW10Ki7N/Home/zone5_icon6.png?v=202012190947"

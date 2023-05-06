@@ -55,7 +55,7 @@
                                                 color="#c39d32" data-mce-style="color: #c39d32;" style="color: #c39d32;">
                                                 <span
                                                     style="font-size: 30px;"
-                                                    data-mce-style="font-size: 30px;">{{ trans('message.footer_title') }}</span>
+                                                    data-mce-style="font-size: 30px;">ช่องทางการให้บริการ</span>
                                                     <br>
                                                 </span>
 
@@ -89,7 +89,7 @@
                                                     <div class="caption">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #fff!important;"
-                                                                data-mce-style="line-height: 1.5;">{{ trans('message.footer_delivery') }}</span><br><span
+                                                                data-mce-style="line-height: 1.5;">บริการจัดทั่วประเทศ</span><br><span
                                                                 style="line-height: 1.5; color:  #c5a557 !important;"
                                                                 data-mce-style="line-height: 1.5; color: #ffffff;"></span>
                                                         </div>
@@ -112,13 +112,13 @@
                                                     <div class="caption">
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #ffffff !important;"
-                                                                data-mce-style="line-height: 1.5;">{{ trans('message.footer_contact') }}</span>
+                                                                data-mce-style="line-height: 1.5;">สนใจติดต่อ</span>
                                                         </div>
                                                         <div style="text-align: center;" data-mce-style="text-align: center;">
                                                             <span style="line-height: 1.5; color:  #c5a557 !important;;"
                                                                 data-mce-style="line-height: 1.5;"><span
                                                                     style="color: #c39d32 !important;"
-                                                                    data-mce-style="line-height: 1.5;">{{ trans('message.tel') }}</span> :
+                                                                    data-mce-style="line-height: 1.5;">โทร</span> :
                                                                 093-646-4616</span>
                                                         </div>
                                                     </div>

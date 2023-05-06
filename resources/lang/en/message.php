@@ -71,7 +71,12 @@ return [
     by adhering to the principles of food safety under international standard production and the laws that are enacted are important
     To meet the needs and satisfaction of customers. with clear results."',
     'Awards_Achievement' => 'Awards Achievement',
-    'consultfree' => 'Free Consilt!!',
+    // footer
+    'service_ch' => 'Service',
+    'delivery_all' => 'Nationwide delivery service',
+    'contact_please' => 'Contact',
+    'tel_me' => 'Tel.',
+    'consultfree' => 'Free Consult!!',
     'header_process' => 'Supplement production process',
     'consult' => 'STEP 1: Get expert advice',
     'search_dev' => 'STEP 2: Investigate, research and develop food supplement formulas according to customer requirements',
